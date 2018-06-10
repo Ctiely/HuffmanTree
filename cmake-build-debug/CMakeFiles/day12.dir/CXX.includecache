@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clytie/Documents/研究生/C++/algorithm/day12/HuffmanTree.cpp
+HuffmanTree.h
+/Users/clytie/Documents/研究生/C++/algorithm/day12/HuffmanTree.h
+functional
+-
+
+/Users/clytie/Documents/研究生/C++/algorithm/day12/HuffmanTree.h
+cstdint
+-
+vector
+-
+algorithm
+-
+
+/Users/clytie/Documents/研究生/C++/algorithm/day12/main.cpp
+iostream
+-
+vector
+-
+HuffmanTree.h
+/Users/clytie/Documents/研究生/C++/algorithm/day12/HuffmanTree.h
+

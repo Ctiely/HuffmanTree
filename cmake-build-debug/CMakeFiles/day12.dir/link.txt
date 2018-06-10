@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/day12.dir/main.cpp.o CMakeFiles/day12.dir/HuffmanTree.cpp.o  -o day12 
